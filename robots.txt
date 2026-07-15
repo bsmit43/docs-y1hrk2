@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://news-cfrkn9.indocuan-win.sbs/sitemap.xml
